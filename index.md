@@ -17,4 +17,4 @@
 2. ***FaaS***
 3. ~~JaaS~~
 
--[ ] Otsikot
+- [ ] Otsikot
