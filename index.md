@@ -15,4 +15,4 @@
 **Lisäksi kursilla tutustuttiin**
 1. DaaS
 2. FaaS
-~~3. JaaS~~
+3. ~~JaaS~~
