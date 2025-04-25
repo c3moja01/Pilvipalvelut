@@ -14,5 +14,7 @@
 
 **Lisäksi <sup>kursilla</sup> tutustuttiin**
 1. <ins>DaaS</ins>
-2. FaaS
+2. ***FaaS***
 3. ~~JaaS~~
+
+-[] Otsikot
