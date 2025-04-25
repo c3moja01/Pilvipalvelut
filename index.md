@@ -18,3 +18,10 @@
 3. ~~JaaS~~
 
 - [x] Otsikot
+- [x] Tekstikentät
+- [x] Linkit
+- [x] Kuva
+- [x] Muotoiltu teksti
+- [x] Numeroitu lista
+- [x] Tehtävä lista
+- [ ] Kesäloma alkaa
