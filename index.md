@@ -9,3 +9,10 @@
 
 ## SaaS
 > Software as a Service (lyh. SaaS) tarkoittaa ohjelmiston jakelumallia, jossa palvelun tarjoaja ylläpitää sovellusohjelmistoa palvelimillaan ja tarjoaa palvelua asiakkaille internetin välityksellä. SaaS-malli on usein käytössä yrityssovelluksille kuten sähköpostipalvelut, CRM-palvelut, laskutus- ja palkanmaksun käsittely, ERP-palvelut ja niin edelleen.[(Wikipedia)](https://fi.wikipedia.org/wiki/Software_as_a_Service)
+
+# Muut
+
+**Lisäksi kursilla tutustuttiin**
+1. DaaS
+2. FaaS
+~~3. JaaS~~
